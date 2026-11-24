@@ -27,6 +27,10 @@
 
 ---
 
+---
+
+> **Fork status (seankrux/openwhispr):** this repository is Sean's personal fork of [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr), maintained under the plan in [docs/FORK_IMPLEMENTATION_PLAN.md](docs/FORK_IMPLEMENTATION_PLAN.md). Until the fork ships its own releases (Phase 1), the badges and download links above still point at upstream. Fork work targets the EveryApp Gateway and Scribe transcript export first; local dictation and on-device transcription remain the default path.
+
 OpenWhispr turns your voice into text, notes, and actions from your desktop. Press a hotkey, speak, and your words appear at your cursor. Choose between fully private offline transcription with local speech-to-text models like Orukeet, Whisper, NVIDIA Parakeet, and Cohere Transcribe — where your audio never leaves your device — or cloud processing for speed. No data collection, no telemetry, fully open source.
 
 ## Download
